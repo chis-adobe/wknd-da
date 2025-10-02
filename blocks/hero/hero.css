@@ -23,6 +23,7 @@
   font-family: var(--black-font-family);
   position:relative;
   z-index: 1;
+  background-color: aqua;
 }
 .hero h1::after {
   background-color: var(--main-accent-color);
